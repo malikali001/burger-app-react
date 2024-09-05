@@ -1,3 +1,7 @@
+# Introduction
+
+A React-based web app that allows users to create custom burgers by adding ingredients and meals, with real-time price calculation. The app demonstrates effective use of React for state management, dynamic UI updates, and responsive design.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
